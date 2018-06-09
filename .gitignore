@@ -1,4 +1,7 @@
-data/
+data/raw/EEG/
+!.data/raw/EEG/README.md
+data/derived/
+!.data/derived/README.md
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
@@ -104,3 +107,6 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+
+#osx
+.DS_Store
